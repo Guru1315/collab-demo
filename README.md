@@ -14,3 +14,7 @@ print(subtract(5, 2))  # 3
 ## Contributing
 
 Fork the repo, create a feature branch, commit your changes, and open a pull request.
+
+## Functions
+
+`add`, `subtract`, `multiply`, `divide`, `power`
